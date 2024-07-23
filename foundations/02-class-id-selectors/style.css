@@ -1,6 +1,5 @@
 .paragraph,
-.cooler-paragraph,
-.coolest-paragraph {
+.cooler-paragraph {
     background-color: pink;
     font-family: Verdana,dejavu sans, sans-serif;
 }
@@ -16,4 +15,4 @@
     background-color: blue;
     font-size: 24px;
     font-weight: 700;
-}
+}   
